@@ -1,6 +1,6 @@
-package medd.voll.apivoll.medico;
+package medd.voll.apivoll.domain.medico;
 
-import medd.voll.apivoll.endereco.Endereco;
+import medd.voll.apivoll.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.*;
 
